@@ -1,0 +1,19 @@
+{
+  "name": "tuyenvx-palindrome",
+  "version": "1.0.0",
+  "description": "LearnEnought JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oVuongXuanTuyen/LearnEnoght_JavaScript.git"
+  },
+  "author": "tuyenvx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oVuongXuanTuyen/LearnEnoght_JavaScript/issues"
+  },
+  "homepage": "https://github.com/oVuongXuanTuyen/LearnEnoght_JavaScript#readme"
+}
